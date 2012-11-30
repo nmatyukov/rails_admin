@@ -164,3 +164,4 @@ This library aims to support and is [tested against][travis] the following Ruby 
 
 [rubinius]: http://rubini.us/
 [jruby]: http://jruby.org/
+
